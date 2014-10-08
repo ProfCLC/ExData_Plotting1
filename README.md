@@ -25,7 +25,7 @@ The goals of this project are fully explicatd by the course instructor, and are 
 
 5. When you are finished with the assignment, push your git repository to GitHub so that the GitHub version of your repository is up to date. There should be four PNG files and four R code files.
 
-##Dependencies Required forRunning the R Script
+##Dependencies Required for Running the R Script
 All `plot*.R` files have a dependency on the `sqldf` package so that SQL commands can be used to read in
 only data from 01 and 02 Feb 2007
 
